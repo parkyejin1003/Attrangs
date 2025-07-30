@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Attrangs/static/css/main.8e16806c.css",
+    "main.js": "/Attrangs/static/js/main.87fd0d6e.js",
+    "static/media/main_icon_pc.png": "/Attrangs/static/media/main_icon_pc.dc38f9172d5964039361.png",
+    "index.html": "/Attrangs/index.html",
+    "main.8e16806c.css.map": "/Attrangs/static/css/main.8e16806c.css.map",
+    "main.87fd0d6e.js.map": "/Attrangs/static/js/main.87fd0d6e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8e16806c.css",
+    "static/js/main.87fd0d6e.js"
+  ]
+}
